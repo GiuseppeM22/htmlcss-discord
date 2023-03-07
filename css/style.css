@@ -127,12 +127,12 @@ a{
 
 
 .firstmc{
-    width: 50%;
+    max-width: 50%;
     min-height: 350px;
 }
 
 .secondmc{
-    width: 20%;
+    max-width: 30%;
     padding: 20px;
     min-height: 350px;
 }
@@ -140,8 +140,9 @@ a{
 .flexmainContainer_2{
     flex-direction: row-reverse;
     background-color: #d3d3d3;
-    
+    width: 100%;
 }
+
 
 .lastmaincontainer{
     background-color: #d3d3d3;
