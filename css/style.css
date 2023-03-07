@@ -6,7 +6,8 @@
 
 header{
     background-image: url(../img\ 3/jumbo.png);
-    background-size: contain;
+    background-size: cover;
+    background-repeat: no-repeat;
     width: 100%;
     min-height: 200px;
 }
